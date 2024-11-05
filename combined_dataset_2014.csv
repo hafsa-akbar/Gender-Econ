@@ -1,0 +1,514 @@
+hid,r_pid,migrate_to,is_diff_district,migration_reason,gender,relation_to_head,age_year,marital_status,spouse_pid,employment,female_savings,male_savings,female_job_status,female_annual_income,male_profit,male_farm_income
+10101010105.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10101010105.0,2.0,       Rural Area      ,       No      ,       Employment      ,Female,No Difference,35.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+10101010109.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,34.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10101010109.0,2.0,       Rural Area      ,       No      ,       Employment      ,Female,No Difference,32.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+10101010121.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,12000.0,Unemployed,0.0,0.0,0.0
+10101010124.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,39.0,Currently Married,4.0,Employed,1000.0,0.0,Unemployed,0.0,0.0,0.0
+10101010124.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,39.0,Currently Married,4.0,Employed,3000.0,0.0,Unemployed,0.0,0.0,0.0
+10101010124.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Never Married,-1.0,Employed,1000.0,0.0,Unemployed,0.0,0.0,0.0
+10101010124.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Never Married,-1.0,Employed,3000.0,0.0,Unemployed,0.0,0.0,0.0
+10101010126.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,59.0,Currently Married,2.0,Employed,800.0,0.0,Unemployed,0.0,0.0,0.0
+10101010128.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,Error in Name ,16.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10101020219.0,1.0,       Rural Area      ,       No      ,       To Follow Family Member ,Male,No Difference,27.0,Currently Married,2.0,Employed,0.0,5000.0,Unemployed,0.0,0.0,0.0
+10101020219.0,2.0,       Rural Area      ,       No      ,       To Follow Family Member ,Female,Error in Name ,22.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,5000.0,Unemployed,0.0,0.0,0.0
+10101020308.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Currently Married,13.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10101020308.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10101020315.0,4.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,19.0,Never Married,-1.0,Student,2000.0,0.0,Unemployed,0.0,0.0,0.0
+10101020315.0,5.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,17.0,Never Married,-1.0,Student,2000.0,0.0,Unemployed,0.0,0.0,0.0
+10101020316.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,Error in Name ,47.0,Currently Married,4.0,Employed,0.0,300000.0,Unemployed,0.0,0.0,0.0
+10101020324.0,12.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,17.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+10102030402.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,33.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10102030403.0,5.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10102030418.0,7.0,       Rural Area      ,       No      ,       Education       ,Male,No Difference,22.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+10102030420.0,3.0,       Urban Area      ,       No      ,       Employment      ,Male,Error in Name ,35.0,Currently Married,4.0,Employed,12000.0,0.0,Unemployed,0.0,0.0,0.0
+10102030420.0,5.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,32.0,Currently Married,6.0,Employed,12000.0,0.0,Unemployed,0.0,0.0,0.0
+10203040506.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10203040523.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,28.0,Currently Married,4.0,Employed,2000.0,0.0,Unemployed,0.0,50000.0,0.0
+10203040523.0,12.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,2000.0,0.0,Unemployed,0.0,50000.0,0.0
+10203050608.0,3.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,24.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10203050623.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10203050628.0,3.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,45000.0,Unemployed,0.0,0.0,0.0
+10203050628.0,4.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,18.0,Never Married,-1.0,Employed,0.0,45000.0,Unemployed,0.0,0.0,0.0
+10203060726.0,9.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,17.0,Never Married,-1.0,Employed,0.0,20000.0,Unemployed,0.0,0.0,0.0
+10203060727.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,16.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,86000.0,0.0
+10204070812.0,6.0,       Urban Area      ,       No      ,       Education       ,Male,No Difference,24.0,Never Married,-1.0,Student,1500.0,0.0,Unemployed,0.0,0.0,0.0
+10306101111.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10306101121.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,35.0,Currently Married,2.0,Employed,2000.0,0.0,Unemployed,0.0,0.0,0.0
+10307111209.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,35000.0
+10408121310.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,28.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10409151620.0,2.0,       Urban Area      ,       No      ,       Education       ,Male,No Difference,17.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+10510171804.0,1.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,47.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+10510171804.0,2.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,24.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10510171804.0,4.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+10510171804.0,5.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,22.0,Separated,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+10510171821.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10613202102.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,30.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10613202108.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10613202110.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,55.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10613202116.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,27.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10613212213.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,36.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10613212217.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222302.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,34.0,Currently Married,3.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222302.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,32.0,Currently Married,5.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222302.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,23.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222303.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222305.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,46.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222305.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222305.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222307.0,1.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222308.0,3.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,29.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222308.0,5.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,27.0,Currently Married,6.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222312.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,42.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222313.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,27.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222314.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,38.0,Currently Married,2.0,Employed,5000.0,0.0,Unemployed,0.0,0.0,0.0
+10614222315.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,28.0,Currently Married,4.0,Employed,0.0,20000.0,Unemployed,0.0,0.0,0.0
+10614222317.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,22.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614222322.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,42.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232405.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,40.0,Currently Married,2.0,Employed,4000.0,0.0,Unemployed,0.0,0.0,0.0
+10614232407.0,1.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,62.0,Currently Married,2.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232407.0,2.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,57.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232411.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,42.0,Currently Married,3.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232411.0,5.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,17.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232413.0,3.0,       Urban Area      ,       Yes     ,       Education       ,Male,Error in Name ,16.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,66500.0,0.0
+10614232415.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,32.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232419.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,45000.0,0.0
+10614232424.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232424.0,4.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,18.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232425.0,3.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,47.0,Currently Married,4.0,Employed,18000.0,0.0,Unemployed,0.0,120000.0,0.0
+10614232426.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,78000.0,0.0
+10614232428.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,28.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232428.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,22.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232428.0,5.0,       Urban Area      ,       No      ,       Education       ,Male,No Difference,20.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+10614232428.0,6.0,       Urban Area      ,       No      ,       Education       ,Male,No Difference,18.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+10715242507.0,1.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,30.0,Currently Married,2.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+10715242518.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+10715242519.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,40.0,Currently Married,2.0,Employed,10000.0,0.0,Unemployed,0.0,0.0,0.0
+10715242519.0,3.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,18.0,Never Married,-1.0,Student,10000.0,0.0,Unemployed,0.0,0.0,0.0
+10716262705.0,1.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,38.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024363704.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,Error in Name ,19.0,Never Married,-1.0,Employed,500.0,0.0,Unemployed,0.0,0.0,0.0
+11024363705.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,57.0,Currently Married,2.0,Employed,600.0,0.0,Unemployed,0.0,0.0,0.0
+11024363705.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,17.0,Never Married,-1.0,Employed,600.0,0.0,Unemployed,0.0,0.0,0.0
+11024363706.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024373802.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024373809.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,23.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024373809.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,17.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024373810.0,13.0,       Urban Area      ,       Yes     ,       Employment      ,Male,Not Applicable,26.0,Currently Married,9.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024373812.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,30.0,Widow Or Widower,-1.0,Employed,500.0,0.0,Unemployed,0.0,0.0,0.0
+11024373812.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,27.0,Never Married,-1.0,Employed,500.0,0.0,Unemployed,0.0,0.0,0.0
+11024373812.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Never Married,-1.0,Employed,500.0,0.0,Unemployed,0.0,0.0,0.0
+11024373812.0,14.0,       Urban Area      ,       Yes     ,       Employment      ,Male,Not Applicable,24.0,Currently Married,12.0,Employed,500.0,0.0,Unemployed,0.0,0.0,0.0
+11024373823.0,1.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,27.0,Currently Married,2.0,Employed,1500.0,0.0,Unemployed,0.0,0.0,0.0
+11024383901.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,59.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383905.0,4.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,28.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383905.0,5.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383913.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,52.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383917.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,43.0,Currently Married,2.0,Employed,1000.0,0.0,Unemployed,0.0,0.0,0.0
+11024383918.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,35.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383919.0,4.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,16.0,Never Married,-1.0,Employed,500.0,0.0,Unemployed,0.0,0.0,0.0
+11024383920.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,50.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383920.0,5.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,23.0,Currently Married,6.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383922.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,42.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383922.0,3.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,19.0,Currently Married,9.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383922.0,6.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,25.0,Currently Married,7.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11024383924.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,62.0,Currently Married,2.0,Not Working For Wages But Involve In Housework,1000.0,0.0,Unemployed,0.0,0.0,0.0
+11024383924.0,3.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,21.0,Currently Married,7.0,Employed,1000.0,0.0,Unemployed,0.0,0.0,0.0
+11025394020.0,1.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,44.0,Currently Married,2.0,Employed,10000.0,0.0,Unemployed,0.0,0.0,0.0
+11025394022.0,1.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11025394028.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,38.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11127424304.0,2.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Currently Married,3.0,Employed,50000.0,0.0,Unemployed,0.0,0.0,0.0
+11127424304.0,2.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Currently Married,3.0,Employed,50000.0,0.0,Unemployed,0.0,0.0,0.0
+11127424320.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,40.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11127424323.0,1.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,38.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,15000.0,0.0
+11127424328.0,3.0,       Urban Area      ,       No      ,       Employment      ,Male,Error in Name ,23.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,5000.0,0.0
+11128434405.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,32.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11128434405.0,6.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,27.0,Currently Married,10.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11128434405.0,7.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,22.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11128434414.0,16.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,37.0,Currently Married,17.0,Employed,0.0,200000.0,Unemployed,0.0,0.0,0.0
+11128434414.0,19.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Never Married,-1.0,Employed,0.0,200000.0,Unemployed,0.0,0.0,0.0
+11229444505.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,22.0,Currently Married,3.0,Employed,30000.0,0.0,Unemployed,0.0,16800.0,0.0
+11230454604.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230454608.0,8.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,42.0,Currently Married,9.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+11230454627.0,3.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,25.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464705.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,39.0,Currently Married,3.0,Employed,1500.0,0.0,Unemployed,0.0,0.0,10600.0
+11230464709.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Nikah Without Rukhsati,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464710.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,57.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464710.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,27.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464713.0,3.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,40.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464713.0,3.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,40.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464715.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Currently Married,7.0,Employed,0.0,0.0,Unemployed,0.0,55300.0,0.0
+11230464725.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Currently Married,6.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11230464725.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Currently Married,7.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+11231474804.0,3.0,       Urban Area      ,       Yes     ,    For Medical Assistance/ Treatment ,Male,No Difference,31.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,250000.0,0.0
+11231474804.0,3.0,       Urban Area      ,       Yes     ,    For Medical Assistance/ Treatment ,Male,No Difference,31.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,50000.0,Unemployed,0.0,250000.0,0.0
+11231474811.0,2.0,       Urban Area      ,       Yes     ,       Employment      ,Female,No Difference,54.0,Currently Married,1.0,Employed,0.0,1300.0,Unemployed,0.0,19400.0,0.0
+11231474811.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,23.0,Never Married,-1.0,Employed,0.0,1300.0,Unemployed,0.0,19400.0,0.0
+11231474824.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,12000.0,300000.0,Unemployed,0.0,180000.0,0.0
+11231474824.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,12000.0,300000.0,Unemployed,0.0,67000.0,0.0
+11231474824.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,12000.0,50000.0,Unemployed,0.0,180000.0,0.0
+11231474824.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,12000.0,50000.0,Unemployed,0.0,67000.0,0.0
+11231474827.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,20200.0,0.0
+11231474827.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,20200.0,0.0
+21332484903.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,41.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484903.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,39.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484903.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484904.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,33.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484904.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484904.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,17.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484905.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,49.0,Currently Married,2.0,Employed,0.0,15000.0,Unemployed,0.0,0.0,0.0
+21332484905.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,48.0,Currently Married,1.0,Employed,0.0,15000.0,Unemployed,0.0,0.0,0.0
+21332484906.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,27.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484906.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Error in Name ,25.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484909.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,38.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484909.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,53.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484909.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,17.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484909.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,15.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484910.0,2.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,65.0,Widow Or Widower,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484910.0,3.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,19.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484910.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,28.0,Currently Married,5.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484910.0,5.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,28.0,Currently Married,4.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484914.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484914.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,24.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484915.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,45.0,Currently Married,2.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,45.0,Currently Married,2.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,45.0,Currently Married,2.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,35.0,Currently Married,1.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,35.0,Currently Married,1.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,35.0,Currently Married,1.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Student,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Student,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Student,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Student,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Student,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Student,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,10.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,62.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,10.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,62.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,10.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,62.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,11.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,47.0,Currently Married,12.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,11.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,47.0,Currently Married,12.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,11.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,47.0,Currently Married,12.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,12.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,11.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,12.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,11.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,12.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,11.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,13.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,13.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,13.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,14.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,14.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,14.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,18.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,42.0,Currently Married,19.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,18.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,42.0,Currently Married,19.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,18.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,42.0,Currently Married,19.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,19.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,37.0,Currently Married,18.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,19.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,37.0,Currently Married,18.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,19.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,37.0,Currently Married,18.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,20.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,40.0,Currently Married,21.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,20.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,40.0,Currently Married,21.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,20.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,40.0,Currently Married,21.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,21.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,39.0,Currently Married,20.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,21.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,39.0,Currently Married,20.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,21.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,39.0,Currently Married,20.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,22.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,23.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,22.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,23.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,22.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,23.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,23.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,25.0,Currently Married,22.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,23.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,25.0,Currently Married,22.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,23.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,25.0,Currently Married,22.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,24.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,22.0,Currently Married,26.0,Employed,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,24.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,22.0,Currently Married,26.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,24.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,22.0,Currently Married,26.0,Employed,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,26.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,24.0,Currently Married,24.0,Not Working For Wages But Involve In Housework,0.0,1000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,26.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,24.0,Currently Married,24.0,Not Working For Wages But Involve In Housework,0.0,8000.0,Unemployed,0.0,0.0,0.0
+21332484915.0,26.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,24.0,Currently Married,24.0,Not Working For Wages But Involve In Housework,0.0,7000.0,Unemployed,0.0,0.0,0.0
+21332484917.0,1.0,       Rural Area      ,       Yes     ,       Marriage        ,Male,No Difference,50.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484917.0,2.0,       Rural Area      ,       Yes     ,       Marriage        ,Female,No Difference,46.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484917.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,25.0,Currently Married,9.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484917.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,23.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484917.0,5.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484917.0,9.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Error in Name ,21.0,Currently Married,3.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484918.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,38.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484918.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484918.0,6.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,63.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484922.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484922.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,38.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484923.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,41.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484923.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,35.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484926.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,49.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484926.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,47.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332484926.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,17.0,Never Married,-1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332484926.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495001.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495001.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,37.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495002.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,47.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495002.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,45.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495002.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495003.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495003.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,29.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495004.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,28.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495004.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,26.0,Currently Married,1.0,Looking For Work,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495005.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495005.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,28.0,Currently Married,1.0,Looking For Work,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495006.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,37.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495006.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495007.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,46.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495007.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,38.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495007.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495008.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,37.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495008.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495009.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495009.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,25.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495010.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,45.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495010.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,43.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495010.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,15.0,Never Married,-1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495011.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,33.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495011.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495012.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,49.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495012.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,43.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495012.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495012.0,9.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,67.0,Widow Or Widower,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495013.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,24.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495013.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,21.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495014.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,73.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495014.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,38.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495015.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,49.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495015.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495015.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495016.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495016.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,25.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495017.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495017.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,88.0,Currently Married,3.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495017.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Error in Name ,88.0,Currently Married,2.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495017.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Error in Name ,34.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495017.0,5.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,30.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495018.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,41.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495018.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495019.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,43.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495019.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,42.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495019.0,4.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,19.0,Currently Married,11.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495019.0,5.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,16.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495019.0,6.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495020.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,34.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495020.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495021.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,56.0,Widow Or Widower,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495021.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,26.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495021.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,24.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495021.0,5.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,17.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495021.0,6.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495022.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,35.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495022.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495023.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,46.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495023.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,38.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495023.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,17.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495024.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495024.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,30.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495025.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495025.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495026.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495026.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495027.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,43.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495027.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,42.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495027.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495027.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,18.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495027.0,5.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,17.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495027.0,6.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,16.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495028.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,54.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,53.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,28.0,Currently Married,12.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,26.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,5.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,25.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,6.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,7.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495028.0,8.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,17.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495028.0,9.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495028.0,12.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,25.0,Currently Married,3.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495201.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,47.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495201.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,34.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495201.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495202.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,33.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495202.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495203.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,34.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495203.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,32.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495204.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,20.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495204.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,21.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495205.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,46.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495205.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,45.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495205.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,18.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495205.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,16.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495206.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495206.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495207.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,33.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495207.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495208.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,36.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495208.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,35.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495209.0,1.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,40.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495209.0,2.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,36.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495210.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,23.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495210.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,23.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495212.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495212.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495213.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,62.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495213.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495213.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,Error in Name ,18.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495213.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,15.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495214.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,29.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495214.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,27.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495215.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,43.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495215.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,33.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495216.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495216.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,27.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495217.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,38.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495217.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495218.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,53.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495218.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495219.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,65.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495219.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,64.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495220.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495220.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,38.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495220.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495221.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,54.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495221.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,54.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495221.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,20.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495221.0,4.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,18.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495221.0,5.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495222.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,56.0,Widow Or Widower,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495222.0,3.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,23.0,Currently Married,5.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495222.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495222.0,5.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,Not Applicable,20.0,Currently Married,3.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495223.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,45.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495223.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,40.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21332495224.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,29.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495224.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,28.0,Currently Married,1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495224.0,4.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,53.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495225.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,35.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495225.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,32.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495225.0,6.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,75.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495225.0,7.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,38.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495226.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,33.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495226.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495227.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495227.0,2.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Female,No Difference,30.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495228.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,37.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495228.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,30.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21332495228.0,4.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,55.0,Currently Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505105.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,28.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505105.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,32.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505106.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,66.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505106.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,45.0,Currently Married,1.0,Looking For Work,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21333505107.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,28.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505107.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,21.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505108.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,33.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505108.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505108.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,16.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505110.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,Error in Name ,51.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505110.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,46.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505110.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,17.0,Never Married,-1.0,"Unemployed (Not Working,Not Looking For Work)",0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505110.0,4.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,15.0,Never Married,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21333505115.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,44.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505115.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,29.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505116.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,46.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505116.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,24.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505119.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,60.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505119.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,52.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505119.0,8.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,19.0,Currently Married,9.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505119.0,9.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,18.0,Currently Married,8.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505122.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,63.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505122.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,44.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505123.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,44.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505123.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,43.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21333505125.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505125.0,2.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,43.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505126.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Female,No Difference,40.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21333505126.0,3.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,16.0,Never Married,-1.0,Looking For Work,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525302.0,15.0,       Urban Area      ,       Yes     ,       Education       ,Male,No Difference,25.0,Currently Married,16.0,Employed,0.0,0.0,Unemployed,0.0,334000.0,0.0
+21434525312.0,1.0,       Urban Area      ,       Yes     ,    For Medical Assistance/ Treatment ,Female,No Difference,52.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525312.0,3.0,       Urban Area      ,       Yes     ,    For Medical Assistance/ Treatment ,Male,No Difference,24.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525312.0,6.0,       Urban Area      ,       Yes     ,    For Medical Assistance/ Treatment ,Male,No Difference,18.0,Never Married,-1.0,Student,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525317.0,1.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,56.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525317.0,2.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,55.0,Currently Married,1.0,Employed,0.0,0.0, Temporary Employee ,0.0,0.0,0.0
+21434525320.0,1.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,40.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525320.0,2.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,27.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21434525320.0,4.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,69.0,Widow Or Widower,-1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21435535409.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,42.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616203.0,1.0,       Urban Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,27.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616203.0,2.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,24.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616205.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616205.0,2.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,31.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616206.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616206.0,2.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,29.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616207.0,1.0,       Rural Area      ,       Yes     ,       Natural Disaster        ,Male,Error in Name ,44.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616207.0,2.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,30.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616221.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,43.0,Currently Married,2.0,Employed,0.0,60000.0,Unemployed,0.0,0.0,0.0
+21641616221.0,2.0,       Rural Area      ,       No      ,       To Follow Family Member ,Female,No Difference,42.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,60000.0,Unemployed,0.0,0.0,0.0
+21641616221.0,3.0,       Rural Area      ,       No      ,       To Follow Family Member ,Male,No Difference,24.0,Currently Married,9.0,Not Working For Wages But Involve In Housework,0.0,60000.0,Unemployed,0.0,0.0,0.0
+21641616228.0,1.0,       Rural Area      ,       No      ,       Natural Disaster        ,Male,No Difference,22.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21641616228.0,2.0,       Rural Area      ,       No      ,       To Follow Family Member ,Female,No Difference,22.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+21642626302.0,1.0,       Urban Area      ,       Yes     ,    For Medical Assistance/ Treatment ,Male,Error in Name ,43.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744646511.0,3.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,24.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744646511.0,4.0,       Rural Area      ,       No      ,       Employment      ,Male,No Difference,22.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744646516.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,22.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744646519.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Nikah Without Rukhsati,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744656619.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744656620.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,28.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+21744656620.0,2.0,       Urban Area      ,       No      ,       To Follow Family Member ,Female,No Difference,27.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846686915.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,25000.0,Unemployed,0.0,0.0,0.0
+31846686918.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846686921.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,27.0,Currently Married,2.0,Employed,0.0,50000.0,Unemployed,0.0,0.0,0.0
+31846686927.0,2.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,23.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697001.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,6.0,Employed,0.0,65000.0,Unemployed,0.0,132000.0,0.0
+31846697001.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,6.0,Employed,0.0,65000.0,Unemployed,0.0,420000.0,0.0
+31846697001.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,6.0,Employed,0.0,30000.0,Unemployed,0.0,132000.0,0.0
+31846697001.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,6.0,Employed,0.0,30000.0,Unemployed,0.0,420000.0,0.0
+31846697001.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Student,0.0,65000.0,Unemployed,0.0,132000.0,0.0
+31846697001.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Student,0.0,65000.0,Unemployed,0.0,420000.0,0.0
+31846697001.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Student,0.0,30000.0,Unemployed,0.0,132000.0,0.0
+31846697001.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,20.0,Never Married,-1.0,Student,0.0,30000.0,Unemployed,0.0,420000.0,0.0
+31846697003.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,25000.0,Unemployed,0.0,0.0,0.0
+31846697004.0,7.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Currently Married,8.0,Employed,0.0,13000.0,Unemployed,0.0,0.0,0.0
+31846697004.0,7.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,29.0,Currently Married,8.0,Employed,0.0,40000.0,Unemployed,0.0,0.0,0.0
+31846697005.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Currently Married,8.0,Employed,0.0,23000.0,Unemployed,0.0,0.0,0.0
+31846697005.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,22.0,Never Married,-1.0,Employed,0.0,23000.0,Unemployed,0.0,0.0,0.0
+31846697005.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,23000.0,Unemployed,0.0,0.0,0.0
+31846697006.0,1.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,34.0,Currently Married,2.0,Employed,4000.0,60000.0,Unemployed,0.0,0.0,0.0
+31846697006.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,30.0,Currently Married,9.0,Employed,4000.0,60000.0,Unemployed,0.0,0.0,0.0
+31846697011.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,42.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697012.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697012.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,17.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697014.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,14.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697014.0,9.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,23.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697014.0,10.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846697015.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,55.0,Widow Or Widower,-1.0,Employed,0.0,40000.0,Unemployed,0.0,540000.0,0.0
+31846697015.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,23.0,Never Married,-1.0,Employed,0.0,40000.0,Unemployed,0.0,540000.0,0.0
+31846697016.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Currently Married,5.0,Employed,0.0,18000.0,Unemployed,0.0,0.0,0.0
+31846697016.0,8.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,18.0,Never Married,-1.0,Employed,0.0,18000.0,Unemployed,0.0,0.0,0.0
+31846697018.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,150000.0,Unemployed,0.0,0.0,0.0
+31846697018.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,21.0,Never Married,-1.0,Employed,0.0,1000000.0,Unemployed,0.0,0.0,0.0
+31846707111.0,1.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,31.0,Currently Married,2.0,Employed,0.0,4000.0,Unemployed,0.0,0.0,0.0
+31846707112.0,2.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,30.0,Currently Married,3.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846707114.0,1.0,       Rural Area      ,       Yes     ,       Employment      ,Male,No Difference,52.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846707119.0,1.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,53.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846707119.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846707121.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Currently Married,2.0,Employed,0.0,22000.0,Unemployed,0.0,0.0,0.0
+31846717202.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,32.0,Currently Married,4.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717207.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,39.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717209.0,5.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,23.0,Never Married,-1.0,Looking For Work,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717210.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,47.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717214.0,4.0,       Urban Area      ,       No      ,       Employment      ,Male,No Difference,18.0,Currently Married,7.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717216.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,30000.0,Unemployed,0.0,0.0,0.0
+31846717216.0,4.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,19.0,Never Married,-1.0,Employed,0.0,25000.0,Unemployed,0.0,0.0,0.0
+31846717216.0,10.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,56.0,Currently Married,11.0,Employed,0.0,30000.0,Unemployed,0.0,0.0,0.0
+31846717216.0,10.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,56.0,Currently Married,11.0,Employed,0.0,25000.0,Unemployed,0.0,0.0,0.0
+31846717218.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,32.0,Currently Married,2.0,Employed,0.0,8000.0,Unemployed,0.0,0.0,49500.0
+31846717221.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Currently Married,4.0,Employed,0.0,30000.0,Unemployed,0.0,0.0,24000.0
+31846717222.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,24.0,Currently Married,9.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717224.0,1.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,41.0,Currently Married,2.0,Employed,0.0,0.0,Unemployed,0.0,0.0,0.0
+31846717228.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,4.0,Employed,0.0,25000.0,Unemployed,0.0,0.0,0.0
+31846717228.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,4.0,Employed,0.0,9000.0,Unemployed,0.0,0.0,0.0
+31846717228.0,3.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,26.0,Currently Married,4.0,Employed,0.0,10000.0,Unemployed,0.0,0.0,0.0
+31846717228.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Never Married,-1.0,Employed,0.0,25000.0,Unemployed,0.0,0.0,0.0
+31846717228.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Never Married,-1.0,Employed,0.0,9000.0,Unemployed,0.0,0.0,0.0
+31846717228.0,6.0,       Urban Area      ,       Yes     ,       Employment      ,Male,No Difference,25.0,Never Married,-1.0,Employed,0.0,10000.0,Unemployed,0.0,0.0,0.0
+31947727403.0,2.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,37.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,40000.0,Unemployed,0.0,0.0,0.0
+31947727403.0,2.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Female,No Difference,37.0,Currently Married,1.0,Not Working For Wages But Involve In Housework,0.0,90000.0,Unemployed,0.0,0.0,0.0
+31947727403.0,3.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,15.0,Never Married,-1.0,Student,0.0,40000.0,Unemployed,0.0,0.0,0.0
+31947727403.0,3.0,       Rural Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,15.0,Never Married,-1.0,Student,0.0,90000.0,Unemployed,0.0,0.0,0.0
+31947727407.0,1.0,       Urban Area      ,       Yes     ,       To Follow Family Member ,Male,No Difference,61.0,Currently Married,2.0,Not Working For Wages But Involve In Housework,0.0,500000.0,Unemployed,0.0,154000.0,0.0
